@@ -1,0 +1,6 @@
+{
+  "name": "Manajemen Tugas & Pengingat",
+  "description": "Aplikasi manajemen tugas modern yang dilengkapi dengan notifikasi pengingat otomatis, alarm audio, perhitungan waktu mundur, serta kustomisasi prioritas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
